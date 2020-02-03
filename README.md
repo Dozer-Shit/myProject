@@ -1,3 +1,2 @@
 # myProject
-Moddify file Readme
-New stroke
+Test merge
